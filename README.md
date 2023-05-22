@@ -2,7 +2,7 @@
 
 ##ÍNDICE🧠
 
-*[1.Introducción]
+*[1.Introducción] 
 *[2. Qué construí]
 *[3.Objetivo del proyecto]
 
