@@ -2,7 +2,7 @@
 
 ##ÍNDICE🧠
 
-*[1.Introducción] 
+*[1.Introducción] (https://github.com/AshleyTruLet/portafolio/blob/main/README.md#1-introducci%C3%B3n)
 *[2. Qué construí]
 *[3.Objetivo del proyecto]
 
